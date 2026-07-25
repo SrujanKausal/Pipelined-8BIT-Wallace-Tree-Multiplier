@@ -49,7 +49,7 @@ This project implements a **Pipelined 8-Bit Wallace Tree Multiplier** using **Ve
 
 The following waveform verifies the correct operation of the pipelined 8-bit Wallace Tree Multiplier.
 
-![Simulation Waveform](waveform.png)
+![Simulation Waveform](images/waveform.png)
 
 ---
 
